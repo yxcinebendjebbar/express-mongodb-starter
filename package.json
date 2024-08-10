@@ -1,0 +1,18 @@
+{
+  "name": "express-mongodb-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "express-mongodb-starter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "simple-git": "^3.25.0"
+  }
+}
